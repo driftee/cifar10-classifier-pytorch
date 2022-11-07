@@ -33,7 +33,7 @@ CIFAR-10的每张图像大小为32x32, 刚好是适配原来的LeNet5结构的�
 
 对应的实现在`models.LeNet5Like`，**后续的实验都以此为baseline**
 
-![](results/LeNet5Like.svg)
+![](results/LeNet5Like-0.05.svg)
 
 (蓝线为测试准确率，绿线为测试损失，橙色线为训练损失)
 最高测试准确率为56.22%
